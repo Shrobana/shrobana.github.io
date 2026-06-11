@@ -232,6 +232,19 @@ a {
   font-size: 0.95rem;
 }
 
+.award-list small {
+  display: block;
+  margin-top: 0.15rem;
+  color: #7b8fa3;
+  font-size: 0.85rem;
+}
+
+.award-list small a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .teaching-blocks {
   display: grid;
   gap: 1.25rem;
