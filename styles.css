@@ -90,7 +90,7 @@ a {
 }
 
 .hero-content {
-  max-width: 720px;
+  width: 100%;
 }
 
 .profile-badge {
